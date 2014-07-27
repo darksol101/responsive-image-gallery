@@ -35,7 +35,7 @@ This plugin does not give that functionality. The users can upload the images fr
 ## Screenshots ##
 
 1. A Screenshot of the gallery
-
+![A Screenshot of the gallery](https://raw.githubusercontent.com/darksol101/responsive-image-gallery/master/screenshot-1.PNG)
 ## Other Notes ##
 
 1. Thanks to my fellow developer Rubesh S.Dev for supporting and creating with me.
