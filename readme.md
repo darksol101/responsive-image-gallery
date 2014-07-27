@@ -33,9 +33,8 @@ and user friendly.
 This plugin does not give that functionality. The users can upload the images from wordpress default media manager and then select those images to your created gallery from responsive image gallery UI.
 
 ## Screenshots ##
+![screenshot-1.PNG](https://raw.githubusercontent.com/darksol101/responsive-image-gallery/master/screenshot-1.PNG)
 
-1. A Screenshot of the gallery
-![A Screenshot of the gallery](https://raw.githubusercontent.com/darksol101/responsive-image-gallery/master/screenshot-1.PNG)
 ## Other Notes ##
 
 1. Thanks to my fellow developer Rubesh S.Dev for supporting and creating with me.
